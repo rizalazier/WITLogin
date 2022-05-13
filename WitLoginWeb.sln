@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WitLoginWeb", "WitLoginWeb\WitLoginWeb.csproj", "{DC9F7569-9428-4AE0-9FC6-4EC1703D5D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WitLoginWebAPI", "WitLoginWebAPI\WitLoginWebAPI.csproj", "{7E9DA62D-2134-455C-A428-23982E407AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9F7569-9428-4AE0-9FC6-4EC1703D5D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9F7569-9428-4AE0-9FC6-4EC1703D5D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9F7569-9428-4AE0-9FC6-4EC1703D5D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9F7569-9428-4AE0-9FC6-4EC1703D5D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9DA62D-2134-455C-A428-23982E407AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9DA62D-2134-455C-A428-23982E407AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9DA62D-2134-455C-A428-23982E407AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9DA62D-2134-455C-A428-23982E407AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31005F5F-EBDB-46D4-A9EF-A1F2E1F1E4A6}
+	EndGlobalSection
+EndGlobal
