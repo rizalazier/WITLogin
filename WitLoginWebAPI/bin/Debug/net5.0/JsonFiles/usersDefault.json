@@ -1,12 +1,12 @@
 [
   {
-    "id": "02271EC2-968A-4A04-82F1-EF134480CF6B",
+    "id": "02271ec2-968a-4a04-82f1-ef134480cf6b",
     "Name": "Azib",
     "Username": "aziban",
     "Password": "pass234"
   },
   {
-    "id": "F0420B08-B0B2-44A2-8403-8E77324482A7",
+    "id": "f0420b08-b0b2-44a2-8403-8e77324482a7",
     "Name": "WIT",
     "Username": "witinaja",
     "Password": "pass123"
@@ -16,5 +16,23 @@
     "Name": "Nicholas",
     "Username": "nick123",
     "Password": "nick123"
+  },
+  {
+    "id": "d3314250-0c4a-4cab-8742-389132416f73",
+    "Name": "Varg Vikernes",
+    "Username": "vargvikernes",
+    "Password": "vik123"
+  },
+  {
+    "id": "da240458-67c4-4703-b279-81b543c1c556",
+    "Name": "Varg Vikernes",
+    "Username": "vargvikernes",
+    "Password": "vik123"
+  },
+  {
+    "id": "a1774ec1-4798-4f3e-9a6e-52b8cf074314",
+    "Name": "Nicholas Wong",
+    "Username": "wonggendeng",
+    "Password": "wong123"
   }
 ]

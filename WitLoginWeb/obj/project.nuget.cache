@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JjVBBKhfM40lzAgwdNqgghawT6MSpNrUPENHCuew6e9PL95vVIHVQyYns5bT9JZRrMcmQkqTZEHM8Em4Ml1n4w==",
+  "dgSpecHash": "ePUWEBYTFkWnY9PP1KivKyybhY9bi2pHRZ9Qc2FnzeywJbdRLEHqVVWgRcOOVdu63Lma/Ff1A9qh/nhLaxXQxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\WitLoginWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

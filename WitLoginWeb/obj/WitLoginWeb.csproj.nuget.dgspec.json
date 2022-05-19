@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb.csproj": {}
+    "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\WitLoginWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb.csproj": {
+    "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\WitLoginWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\WitLoginWeb.csproj",
         "projectName": "WitLoginWeb",
-        "projectPath": "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\WitLoginWeb.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\WitLoginWeb\\WitLoginWeb\\WitLoginWeb\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\WITLogin-main\\WitLoginWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

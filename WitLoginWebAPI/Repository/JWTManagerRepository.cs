@@ -29,12 +29,6 @@ namespace WitLoginWebAPI.Repository
 
 		public Tokens Authenticate(UsersLogin users)
 		{
-			
-            if (!userList.Any(x => x.Username == users.Username && x.Password == users.Password))
-            {
-				return null;
-            }
-
 			var tokenHandler = new JwtSecurityTokenHandler();
 			var tokenKey = Encoding.UTF8.GetBytes(iconfiguration["JWT:Key"]);
 			var tokenDescriptor = new SecurityTokenDescriptor
